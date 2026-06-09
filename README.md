@@ -76,7 +76,9 @@ npm run dev
 Open:
 
 ```text
-http://localhost:3000 
+http://localhost:3000
+
+web app link : https://releaseshield-ai.vercel.app/
 ```
 
 ## Environment Variables
